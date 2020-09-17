@@ -309,9 +309,37 @@ PrefabInstance:
       propertyPath: leftAndRightEdge
       value: 20
       objectReference: {fileID: 0}
+    - target: {fileID: -1273686822504886251, guid: 2f65384d4f2062b4b86690d5bca984b5, type: 3}
+      propertyPath: speed
+      value: 10
+      objectReference: {fileID: 0}
+    - target: {fileID: -1273686822504886251, guid: 2f65384d4f2062b4b86690d5bca984b5, type: 3}
+      propertyPath: chanceToChangeDirections
+      value: 0.2
+      objectReference: {fileID: 0}
+    - target: {fileID: -1273686822504886251, guid: 2f65384d4f2062b4b86690d5bca984b5, type: 3}
+      propertyPath: applePrefab
+      value: 
+      objectReference: {fileID: 2792847072036475897, guid: df6bd5a60fc6d4d4c8e813b8dba5c044, type: 3}
+    - target: {fileID: 4971760262635185294, guid: 2f65384d4f2062b4b86690d5bca984b5, type: 3}
+      propertyPath: m_Layer
+      value: 8
+      objectReference: {fileID: 0}
+    - target: {fileID: 4971760262975946734, guid: 2f65384d4f2062b4b86690d5bca984b5, type: 3}
+      propertyPath: m_Layer
+      value: 8
+      objectReference: {fileID: 0}
     - target: {fileID: 4971760263002277888, guid: 2f65384d4f2062b4b86690d5bca984b5, type: 3}
       propertyPath: m_Name
       value: AppleTree
+      objectReference: {fileID: 0}
+    - target: {fileID: 4971760263002277888, guid: 2f65384d4f2062b4b86690d5bca984b5, type: 3}
+      propertyPath: m_Layer
+      value: 8
+      objectReference: {fileID: 0}
+    - target: {fileID: 4971760263002277890, guid: 2f65384d4f2062b4b86690d5bca984b5, type: 3}
+      propertyPath: m_IsKinematic
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 4971760263002277891, guid: 2f65384d4f2062b4b86690d5bca984b5, type: 3}
       propertyPath: m_LocalPosition.x
