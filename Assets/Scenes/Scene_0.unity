@@ -305,6 +305,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: -1273686822504886251, guid: 2f65384d4f2062b4b86690d5bca984b5, type: 3}
+      propertyPath: leftAndRightEdge
+      value: 20
+      objectReference: {fileID: 0}
     - target: {fileID: 4971760263002277888, guid: 2f65384d4f2062b4b86690d5bca984b5, type: 3}
       propertyPath: m_Name
       value: AppleTree
@@ -315,7 +319,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4971760263002277891, guid: 2f65384d4f2062b4b86690d5bca984b5, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 10
+      value: 12
       objectReference: {fileID: 0}
     - target: {fileID: 4971760263002277891, guid: 2f65384d4f2062b4b86690d5bca984b5, type: 3}
       propertyPath: m_LocalPosition.z
