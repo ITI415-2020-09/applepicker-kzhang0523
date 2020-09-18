@@ -8,7 +8,7 @@ public class Basket : MonoBehaviour
     [Header("Set Dynamically")]
     public Text scoreGT;
 
-    private void Start()
+    void Start()
     {
         //Find a reference to the ScoreCounter GameObject
         GameObject scoreGO = GameObject.Find("ScoreCounter");
